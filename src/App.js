@@ -48,7 +48,10 @@ function App() {
             AI is a key component of our operations, enabling us to automate processes,
             streamline workflows, and deliver personalized services to our clients. Here's
             how we harness the power of AI:
-           </p>   
+           </p>  
+
+
+            {/* tableeeeeeeee  */}
           <div className="sec2 d-flex flex-column mx-lg-3 my-md-5 mt-sm-0  mb-sm-3 py-5">
               <div className="mb-4 d-flex flex-row">
                 <div className="d-flex flex-column flex-sm-column flex-md-row">
@@ -117,6 +120,24 @@ function App() {
         </div>
         
       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
       {/* New Div Positioned Next to the Image */}
       <div className="pb-5  card1 new-div">
